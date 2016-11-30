@@ -1,5 +1,5 @@
 {
-  "name": "request",
+  "name": "@ibolmo/request",
   "version": "0.0.1",
   "description": "Just a simple fetch wrapper.",
   "main": "request.js",
