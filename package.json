@@ -1,0 +1,12 @@
+{
+  "name": "request",
+  "version": "0.0.1",
+  "description": "Just a simple fetch wrapper.",
+  "main": "request.js",
+  "author": "Olmo Maldonado <ibolmo@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "debug": "^2.3.3",
+    "query-string": "^4.2.3"
+  }
+}
